@@ -1,0 +1,56 @@
+
+#cal{
+ background-color: rgba(38, 37, 37, 0.418);
+ border: 3px solid black;
+ border-radius: 15px;
+ width: 200px;
+margin-left: 200px;
+
+
+ 
+}
+
+#display{
+    background-color:rgb(193, 239, 114);
+    width: 85%;
+    margin: 10px;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.buttoncontainer{
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+
+}
+.button{
+    width: 45px;
+   margin: 3px;
+    height: 45px;
+    
+ 
+
+}
+.button:active{
+    transform: translateY(4px);
+    background-color: rgb(144, 150, 150);
+}
+#Brand{
+    
+    text-align: center;
+    font-style: oblique;
+    
+}
+#ca{
+    background-color: rgb(249, 76, 76);
+    font-size: 25px;
+}
+ #eq{
+    background-color: rgb(77, 235, 95);
+    font-size: 25px;
+    width: 75px;
+ }
