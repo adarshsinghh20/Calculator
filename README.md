@@ -1,2 +1,2 @@
 # Calculator
-This is a Simple Calculator which can perform basic arithmetic calculations.
+This is a Simple Calculator which can perform basic arithmetic calculations.It is made using HTML, CSS and Javascript.....
